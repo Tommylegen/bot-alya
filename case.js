@@ -647,20 +647,20 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!`)
 break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-◦ Script : https://github.com/Nando35/ALYAM
+◦ Script : -
 ◦ Script ori : https://github.com/DikaArdnt/ALYA-Morou
 
 Jangan lupa kasih bintang.
-◦ Donate : 628125284895 (Dana / gopay)
-◦ Saweria : https://saweria.co/Nando35
-◦ Paypal : https://www.paypal.me/Rifando35
+◦ Donate : 6289505054287 (Dana / gopay)
+◦ Saweria : https://saweria.co/Rajaaja
+◦ Pulsa : 0895-0505-4287
 
 Dont Forget Donate
 `
 	                let btn = [{
                                 urlButton: {
-                                    displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    displayText: 'Tiktok',
+                                    url: 'https://tiktok.com/@tommylegends2'
                                 }
                             }]
                         ALYA.send5ButImg(m.chat, anu, botname, global.sc, btn)
@@ -673,14 +673,8 @@ case 'tqto': case 'partner': case 'credits': {
 Dika Ardnt
 ◦ https://github.com/DikaArdnt
 
-Fatih Arridho
-◦ https://github.com/FatihArridho
-
-Whwhwh
-◦ https://github.com/Nando35
-
-Alya
-◦ https://github.com/AliyaBot
+Raja Dev
+◦ private
 `
 	                let btn = [{
                                 urlButton: {
