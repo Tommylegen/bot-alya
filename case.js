@@ -627,7 +627,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                ALYA.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/f8d35118f27c5b371da2b.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n◦ 15k Per Group via E-Walet 1 Month\n◦ 20k via pulsa 1 Month\n\n Premium Price Bot\n◦ 10k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281252848955 (Owner)\n\nDonate For Me : \n\n◦ Paypal : https://www.paypal.me/Rifando35\n◦ Saweria : https://saweria.co/Nando35` }, { quoted: m })
+                ALYA.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/f8d35118f27c5b371da2b.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n◦ 15k Per Group via E-Walet 1 Month\n◦ 20k via pulsa 1 Month\n\n Premium Price Bot\n◦ 10k per User 1 bulan\n\nPayment can be via Dana/saweria/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6289505054287 (Owner)\n\nDonate For Me : \n\n◦ Dana : 6289505054287\n◦ Saweria : https://saweria.co/Rajaaja` }, { quoted: m })
             }
             break
             case 'rules':{
