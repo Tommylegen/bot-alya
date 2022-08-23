@@ -2913,8 +2913,7 @@ Memperingati Hari Pancasila
 ${ultah}
 
 ✘ *YOUR - INFO*
-⫹⫺ *Your Name:* _${pushname}_
-⫹⫺ *Your Limit:* _${limit}_
+⫹⫺ *Your Name:* ${pushname}
 ⫹⫺ *Total Hit:* ${jumlahcmd}
 ⫹⫺ *Total Hit Today:* ${jumlahharian}
                                         
